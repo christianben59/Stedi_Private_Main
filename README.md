@@ -7,3 +7,4 @@ To start this project, run the following commands:
 `docker build . -t stedi`
 
 `docker run --env-file ./env.list stedi`# Stedi_Private_Main
+# Stedi_Private_Main
